@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhi Sharma</h1>
-<h3 align="center">A passionate B.Sc Artificial Intelligence | 1st Year Student Aspiring AI Enthusiastrontend developer from India</h3>
+<h3 align="center">A passionate B.Sc Artificial Intelligence | 1st Year Student Aspiring AI Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
