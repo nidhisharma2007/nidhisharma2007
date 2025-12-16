@@ -1,12 +1,86 @@
 <h1 align="center">Hi 👋, I'm Nidhi Sharma</h1>
-<h3 align="center">A passionate B.Sc Artificial Intelligence | 1st Year Student Aspiring AI Enthusiast</h3>
+<h3 align="center">
+B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ nidhi-sharma-738646371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ nidhi-sharma-738646371" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/nidhi2025sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nidhi2025sharma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5d2Y3Nm4xYjN6YXRnNmZybXU3Y2xndnRmdHNtNXI1ZzV3Z3ZkdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+<h3>👩‍💻 About Me</h3>
+
+<p>
+I am a <b>B.Sc Artificial Intelligence</b> undergraduate student with a strong interest in 
+<b>Machine Learning, Data Analysis, and AI-driven solutions</b>.  
+I enjoy working with data, building small AI projects, and continuously improving my 
+technical and problem-solving skills.
+</p>
+
+<p>
+As a first-year student, I am focused on building a solid foundation in 
+<b>Python programming, data handling, and core AI concepts</b>.  
+I aim to grow into a skilled AI professional by learning through hands-on projects and real-world applications.
+</p>
+
+---
+
+<h3>🌱 Currently Learning</h3>
+
+<ul>
+  <li>Machine Learning fundamentals</li>
+  <li>Data Analysis using Pandas & NumPy</li>
+  <li>Data Visualization with Seaborn & Matplotlib</li>
+  <li>SQL for data handling</li>
+  <li>Basics of Deep Learning</li>
+</ul>
+
+---
+
+<h3 align="left">🤝 Connect with Me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nidhi-sharma-738646371" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/nidhi2025sharma" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+      alt="Kaggle" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python" width="40" height="40" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+      alt="pandas" width="40" height="40" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+      alt="seaborn" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+      alt="scikit-learn" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+      alt="opencv" width="40" height="40" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="tensorflow" width="40" he
 
