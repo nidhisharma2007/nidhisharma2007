@@ -4,9 +4,13 @@ B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
+  <!-- Professional coding / typing GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZlY2RvdXZqNXFtcHV2Z29uNW4wMXFsbDV3MDRnY3Bzb2g3aHNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2N4ZzB0dWZtcG93YTV2bXR2d3J1ZGF0eG9qNWg4YjBzOXF4eW95diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
+
+  <!-- Professional working / office-style GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI4ZXZ6b3R4eGV2YWR5cDExN3l1Zmx6Nm9sbGZndXk4OHJtZ3E0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="280"/>
 </p>
 
 ---
@@ -15,10 +19,10 @@ B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
 
 <ul>
   <li>🎓 Pursuing <b>B.Sc Artificial Intelligence</b> (1st Year).</li>
-  <li>🤖 Strong interest in <b>Artificial Intelligence, Machine Learning, and Data Science</b>.</li>
-  <li>📊 Passionate about working with <b>data analysis and data visualization</b>.</li>
-  <li>🐍 Building a strong foundation in <b>Python programming</b> and analytical thinking.</li>
-  <li>🚀 Motivated to gain hands-on experience through projects and continuous learning.</li>
+  <li>🤖 Interested in <b>Artificial Intelligence, Machine Learning, and Data Science</b>.</li>
+  <li>📊 Passionate about <b>data analysis and data visualization</b>.</li>
+  <li>🐍 Building a strong foundation in <b>Python programming</b>.</li>
+  <li>🚀 Actively developing skills through hands-on projects and continuous learning.</li>
 </ul>
 
 ---
