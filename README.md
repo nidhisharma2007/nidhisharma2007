@@ -4,13 +4,8 @@ B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
-  <!-- Professional coding / typing GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZlY2RvdXZqNXFtcHV2Z29uNW4wMXFsbDV3MDRnY3Bzb2g3aHNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-  &nbsp;&nbsp;
-
-  <!-- Professional working / office-style GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI4ZXZ6b3R4eGV2YWR5cDExN3l1Zmx6Nm9sbGZndXk4OHJtZ3E0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="280"/>
+  <!-- Professional typing / coding GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZlY2RvdXZqNXFtcHV2Z29uNW4wMXFsbDV3MDRnY3Bzb2g3aHNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
