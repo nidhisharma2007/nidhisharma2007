@@ -4,8 +4,8 @@ B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
-  <!-- Professional typing / coding GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZlY2RvdXZqNXFtcHV2Z29uNW4wMXFsbDV3MDRnY3Bzb2g3aHNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <!-- Professional AI / Coding GIF -->
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -13,7 +13,7 @@ B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
 <h3>👩‍💻 About Me</h3>
 
 <ul>
-  <li>🎓 Pursuing <b>B.Sc Artificial Intelligence</b> (1st Year).</li>
+  <li>🎓 Pursuing <b>B.Sc Artificial Intelligence</b>.</li>
   <li>🤖 Interested in <b>Artificial Intelligence, Machine Learning, and Data Science</b>.</li>
   <li>📊 Passionate about <b>data analysis and data visualization</b>.</li>
   <li>🐍 Building a strong foundation in <b>Python programming</b>.</li>
@@ -57,14 +57,4 @@ B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-<p align="center">
-✨ <i>“Learning Artificial Intelligence today to build intelligent solutions for tomorrow.”</i> ✨
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/
