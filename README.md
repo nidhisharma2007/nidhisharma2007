@@ -4,57 +4,91 @@ B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
-  <!-- Professional AI / Coding GIF -->
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
 ---
 
-<h3>👩‍💻 About Me</h3>
+<h2 align="center">👩‍💻 About Me</h2>
 
 <ul>
-  <li>🎓 Pursuing <b>B.Sc Artificial Intelligence</b>.</li>
-  <li>🤖 Interested in <b>Artificial Intelligence, Machine Learning, and Data Science</b>.</li>
-  <li>📊 Passionate about <b>data analysis and data visualization</b>.</li>
-  <li>🐍 Building a strong foundation in <b>Python programming</b>.</li>
-  <li>🚀 Actively developing skills through hands-on projects and continuous learning.</li>
+  <li>🎓 Pursuing <b>B.Sc Artificial Intelligence</b></li>
+  <li>🤖 Passionate about <b>AI, Machine Learning & Data Science</b></li>
+  <li>📊 Interested in <b>Data Analytics & Visualization</b></li>
+  <li>🐍 Strengthening <b>Python & Data Science Foundations</b></li>
+  <li>🚀 Focused on <b>projects, experimentation & continuous learning</b></li>
 </ul>
 
 ---
 
-<h3>🌱 Currently Learning</h3>
+<h2 align="center">🌱 Currently Learning</h2>
 
 <ul>
-  <li>Machine Learning fundamentals</li>
-  <li>Data Analysis using Pandas & NumPy</li>
-  <li>Data Visualization using Seaborn & Matplotlib</li>
-  <li><b>Data Visualization with Power BI</b></li>
-  <li>SQL for data handling</li>
+  <li>Machine Learning Fundamentals</li>
+  <li>Python for Data Science</li>
+  <li>Pandas & NumPy for Data Analysis</li>
+  <li>Seaborn & Matplotlib for Visualization</li>
+  <li><b>Power BI Dashboards</b></li>
+  <li>SQL for Databases</li>
   <li>Basics of Deep Learning</li>
 </ul>
 
 ---
 
-<h3 align="left">🤝 Connect with Me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nidhi-sharma-738646371" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" />
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nidhi-sharma-738646371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
+
   <a href="https://www.kaggle.com/nidhi2025sharma" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="Kaggle" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+
+  <!-- Data Science -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+
+  <!-- ML & AI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+  <img src="https://keras.io/img/logo.png" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/commons/2/20/Tensorflow_logo.svg" width="45" height="45"/>
+
+  <!-- Visualization -->
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45" height="45"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+
+  <!-- Version Control -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+
+</p>
+
+---
+
+<h2 align="center">✨ Goals Ahead</h2>
+
+<ul>
+  <li>📌 Build real-world ML & Data Analytics projects</li>
+  <li>📌 Participate in Kaggle & Hackathons</li>
+  <li>📌 Create strong AI & Research portfolio</li>
+</ul>
+
+<p align="center">
+  🚀 “Learning today to build the intelligence of tomorrow”
+</p>
