@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Sharma</h1>
 <h3 align="center">
-B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
+B.Sc Artificial Intelligence | Aspiring AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ B.Sc Artificial Intelligence Student | Aspiring AI & Data Science Enthusiast
 <h2 align="center">👩‍💻 About Me</h2>
 
 <ul>
-  <li>🎓 Pursuing <b>B.Sc Artificial Intelligence</b></li>
+  <li>🎓  <b>B.Sc Artificial Intelligence</b></li>
   <li>🤖 Passionate about <b>AI, Machine Learning & Data Science</b></li>
   <li>📊 Interested in <b>Data Analytics & Visualization</b></li>
   <li>🐍 Strengthening <b>Python & Data Science Foundations</b></li>
