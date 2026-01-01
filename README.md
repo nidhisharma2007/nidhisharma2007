@@ -12,12 +12,17 @@ B.Sc Artificial Intelligence | Aspiring AI & Data Science Enthusiast
 <h2 align="center">👩‍💻 About Me</h2>
 
 <ul>
-  <li>🎓  <b>B.Sc Artificial Intelligence</b></li>
+  <li>🎓 <b>B.Sc Artificial Intelligence</b></li>
   <li>🤖 Passionate about <b>AI, Machine Learning & Data Science</b></li>
   <li>📊 Interested in <b>Data Analytics & Visualization</b></li>
   <li>🐍 Strengthening <b>Python & Data Science Foundations</b></li>
   <li>🚀 Focused on <b>projects, experimentation & continuous learning</b></li>
 </ul>
+
+<p align="center">
+  🎓 <b>B.Sc Artificial Intelligence student</b> | 🤖 <b>Aspiring AI & Data Science Enthusiast</b> | 
+  🐍 <b>Python & ML Learner</b> | 📊 <b>Passionate about Data Analytics, Visualization & Real-world Projects</b>
+</p>
 
 ---
 
@@ -90,5 +95,5 @@ B.Sc Artificial Intelligence | Aspiring AI & Data Science Enthusiast
 </ul>
 
 <p align="center">
-  🚀 “Learning today to build the intelligence of tomorrow”
+  🚀 <i>“Learning today to build the intelligence of tomorrow”</i>
 </p>
